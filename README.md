@@ -17,7 +17,7 @@ app/binary overview, and the method docstrings for the command help.
 Use only positional arguments (*args) in methods. The argument names
 will be shown (in uppercase) in the help output.
 
-The help output is provided by the CLIRunner.hello() method. You can
+The help output is provided by the CLIRunner.help() method. You can
 override it if you want to customise it further.
 
 To activate the wrapper, just create a new object of your subclass.
